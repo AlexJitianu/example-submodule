@@ -1,7 +1,7 @@
 /*  
 IIFE - Immediately Invoked Function Expression
 Encapsulate initialization of application.
-33333
+4
 */
 
 (function(){
